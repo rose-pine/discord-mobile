@@ -19,21 +19,14 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Default](https://github.com/Quinxxxx/vendetta/assets/88912716/99179641-7a77-4aef-9266-b3f19c063850)
+![Moon](https://github.com/Quinxxxx/vendetta/assets/88912716/8a6e1277-997e-4ad8-af4c-9a345b24169a)
+![Dawn](https://github.com/Quinxxxx/vendetta/assets/88912716/06eac0a8-a64f-443c-b9d9-0c9363c45716)
+
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
+- [Quinx](https://github.com/<username>](https://github.com/Quinxxxx)
 
 ## Style guide
 
