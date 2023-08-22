@@ -13,9 +13,26 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Copy the theme link
+
+Rose Pine
+```
+https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepine.json
+```
+Rose Pine Moon
+```
+https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinemoon.json
+```
+Rose Pine dawn
+```
+https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinedawn.json
+```
+2. Open vendetta
+3. Go to settings
+4. Go to themes
+5. Click the `+` icon
+6. Paste in theme link
+7. Restart discord
 
 ## Gallery
 
