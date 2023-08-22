@@ -36,14 +36,24 @@ https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinedawn.json
 
 ## Gallery
 
-![Default](https://github.com/Quinxxxx/vendetta/assets/88912716/99179641-7a77-4aef-9266-b3f19c063850)
-![Moon](https://github.com/Quinxxxx/vendetta/assets/88912716/8a6e1277-997e-4ad8-af4c-9a345b24169a)
-![Dawn](https://github.com/Quinxxxx/vendetta/assets/88912716/06eac0a8-a64f-443c-b9d9-0c9363c45716)
+<details>
+<summary>Rose Pine</summary>
+<img src="https://github.com/Quinxxxx/vendetta/assets/88912716/8a6e1277-997e-4ad8-af4c-9a345b24169a" width="500">
+</details>
 
+<details>
+<summary>Rose Pine Moon</summary>
+<img src="https://github.com/Quinxxxx/vendetta/assets/88912716/99179641-7a77-4aef-9266-b3f19c063850" width="500">
+</details>
+
+<details>
+<summary>Rose Pine Dawn</summary>
+<img src="https://github.com/Quinxxxx/vendetta/assets/88912716/06eac0a8-a64f-443c-b9d9-0c9363c45716" width="500">
+</details>
 
 ## Thanks to
 
-- [Quinx](https://github.com/<username>](https://github.com/Quinxxxx)
+- [Quinx](https://github.com/Quinxxxx)
 
 ## Style guide
 
