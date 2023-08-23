@@ -34,6 +34,21 @@ https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinedawn.json
 6. Paste in theme link
 7. Restart discord
 
+Note: This theme also contains support for themes+ allowing usage for icons packs and custom icon colours. 
+
+## Installing themes+
+
+1. Copy plugin link
+```
+https://vendetta.nexpid.xyz/themes-plus/
+```
+2. Open Vendetta
+3. Go to settings
+4. Go to plugins
+5. Click the `+` icon
+6. Paste plugin link
+7. Refresh discord
+
 ## Gallery
 
 <details>
