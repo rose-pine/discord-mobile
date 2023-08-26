@@ -78,7 +78,7 @@
       "#908caa"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#1f1d2e"
+      "#26233a"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#21202e"
@@ -94,6 +94,12 @@
       ],
       "TEXT_NORMAL": [
       "#e0def4"
+      ],
+      "CARD_PRIMARY_BG": [
+      "#191724"
+      ],
+      "CARD_SECONDARY_BG": [
+      "#26233a"
       ]
     },
     "rawColors": {
