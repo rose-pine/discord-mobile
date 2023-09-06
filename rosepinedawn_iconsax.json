@@ -11,9 +11,6 @@
       "BACKGROUND_ACCENT": [
       "#286983", "#286983"
       ],
-      "BACKGROUND_FLOATING": [
-      "#fffaf3bf", "#fffaf3bf"
-      ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#dfdad9", "#dfdad9"
       ],
@@ -48,7 +45,7 @@
       "#f2e9e1", "#f2e9e1"
       ],
       "CHANNEL_ICON": [
-      "#797593", "#797593"
+      "#907aa9", "#907aa9"
       ],
       "CHANNELS_DEFAULT": [
       "#797593", "#797593"
@@ -75,7 +72,7 @@
       "#9893a5", "#9893a5"
       ],
       "INTERACTIVE_NORMAL": [
-      "#797593", "#797593"
+      "#907aa9", "#907aa9"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#fffaf3", "#fffaf3"
@@ -111,7 +108,7 @@
     "rawColors": {
       "BRAND_260": "#907aa9",
       "BRAND_360": "#d7827e",
-      "BRAND_500": "#797593",
+      "BRAND_500": "#286983",
       "GREEN_100": "#56949f",
       "GREEN_130": "#56949f",
       "GREEN_160": "#56949f",
@@ -143,15 +140,15 @@
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#907aa9",
       "PRIMARY_100": "#575279",
       "PRIMARY_130": "#f2e9e1",
-      "PRIMARY_160": "#286983",
+      "PRIMARY_160": "#f2e9e1",
       "PRIMARY_230": "#f2e9e1",
       "PRIMARY_300": "#faf4ed",
       "PRIMARY_360": "#d7827e",    
       "PRIMARY_400": "#d7827e",
       "PRIMARY_460": "#f2e9e1",
-      "PRIMARY_500": "#797593",
-      "PRIMARY_600": "#797593",
-      "PRIMARY_630": "#f4ede8",
+      "PRIMARY_500": "#907aa9",
+      "PRIMARY_600": "#907aa9",
+      "PRIMARY_630": "#dfdad9",
       "PRIMARY_660": "#f2e9e1",
       "PRIMARY_700": "#f4ede8",
       "PRIMARY_800": "#f2e9e1",
