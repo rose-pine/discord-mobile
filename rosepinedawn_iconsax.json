@@ -201,6 +201,8 @@
        "iconpack":"rosiecord-iconsax",
        "icons":{
           "ic_new_pins":"#b4637a",
+          "ic_radio_square_checked_24px":"f2e9e1",
+          "ic_radio_square_checked_24px__overlay":"907aa9",
           "StatusStreaming": "#907aa9",
           "StatusMobileOnline": "#56949f",
           "StatusIdle": "#d7827e",
