@@ -1,5 +1,5 @@
 {
-    "name": "Rosé Pine",
+    "name": "Rose Pine",
     "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
     "authors": [
       {
@@ -10,9 +10,6 @@
     "semanticColors": {
       "BACKGROUND_ACCENT": [
       "#31748f"
-      ],
-      "BACKGROUND_FLOATING": [
-      "#1f1d2ebf"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#403d52"
@@ -48,7 +45,7 @@
       "#26233a"
       ],
       "CHANNEL_ICON": [
-      "#908caa"
+      "#c4a7e7"
       ],
       "CHANNELS_DEFAULT": [
       "#908caa"
@@ -75,7 +72,7 @@
       "#6e6a86"
       ],
       "INTERACTIVE_NORMAL": [
-      "#908caa"
+      "#c4a7e7"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#26233a"
@@ -105,7 +102,7 @@
     "rawColors": {
       "BRAND_260": "#c4a7e7",
       "BRAND_360": "#ebbcba",
-      "BRAND_500": "#524f67",
+      "BRAND_500": "#31748f",
       "GREEN_100": "#9ccfd8",
       "GREEN_130": "#9ccfd8",
       "GREEN_160": "#9ccfd8",
@@ -136,13 +133,13 @@
       "GUILD_BOOSTING_PURPLE": "#c4a7e7",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
       "PRIMARY_100": "#e0def4",
-      "PRIMARY_230": "#908caa",
+      "PRIMARY_230": "#c4a7e7",
       "PRIMARY_300": "#191724",
       "PRIMARY_360": "#ebbcba",    
       "PRIMARY_400": "#ebbcba",
       "PRIMARY_460": "#26233a",
-      "PRIMARY_500": "#908caa",
-      "PRIMARY_600": "#191724",
+      "PRIMARY_500": "#c4a7e7",
+      "PRIMARY_600": "#c4a7e7",
       "PRIMARY_630": "#26233a",
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
@@ -192,9 +189,11 @@
    },
    "plus":{
        "version":"0",
+       "customOverlays": true,
        "iconpack":"rosiecord-plumpy",
        "icons":{
           "ic_new_pins":"#eb6f92",
+          "ic_notification_settings":"c4a7e7",
           "StatusStreaming": "#c4a7e7",
           "StatusMobileOnline": "#9ccfd8",
           "StatusIdle": "#ebbcba",

@@ -197,6 +197,7 @@
    },
    "plus":{
        "version":"0",
+       "customOverlays": true,
        "iconpack":"rosiecord-plumpy",
        "icons":{
           "ic_new_pins":"#b4637a",
