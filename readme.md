@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinedawn.json
 6. Paste in theme link
 7. Restart discord
 
-Note: This theme can he used with iconpacks by following this guide.
+Note: This theme can be used with iconpacks by following this guide.
 
 ## Installing themes+ and icon packs
 
