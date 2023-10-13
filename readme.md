@@ -34,9 +34,9 @@ https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinedawn.json
 6. Paste in theme link
 7. Restart discord
 
-Note: This theme also contains support for themes+ allowing usage for icons packs and custom icon colours. 
+Note: This theme can he used with iconpacks by following this guide.
 
-## Installing themes+
+## Installing themes+ and icon packs
 
 1. Copy plugin link
 ```
@@ -47,7 +47,13 @@ https://vendetta.nexpid.xyz/themes-plus/
 4. Go to plugins
 5. Click the `+` icon
 6. Paste plugin link
-7. Refresh discord
+###
+7. Go to plugins
+8. Find themes+
+9. Click theme+ settings
+10. Double tap "themes+ is active" text
+11. Select icon pack from list
+12. Click reload
 
 ## Gallery
 
