@@ -44,6 +44,15 @@
       "BACKGROUND_TERTIARY": [
       "#26233a"
       ],
+      "BORDER_FAINT": [
+      "#f6c177"
+      ],
+      "BORDER_STRONG": [
+      "#f6c177"
+      ],      
+      "BORDER_SUBTLE": [
+      "#f6c177"
+      ],
       "CHANNEL_ICON": [
       "#c4a7e7"
       ],
@@ -106,7 +115,7 @@
       "BRAND_260": "#c4a7e7",
       "BRAND_360": "#ebbcba",
       "BRAND_500": "#31748f",
-      "GREEN_100": "#f6c177",
+      "GREEN_100": "#3e8fb0",
       "GREEN_130": "#31748f",
       "GREEN_160": "#31748f",
       "GREEN_200": "#31748f",

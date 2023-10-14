@@ -44,6 +44,15 @@
       "BACKGROUND_TERTIARY": [
       "#393552"
       ],
+      "BORDER_FAINT": [
+      "#f6c177"
+      ],
+      "BORDER_STRONG": [
+      "#f6c177"
+      ],      
+      "BORDER_SUBTLE": [
+      "#f6c177"
+      ],
       "CHANNEL_ICON": [
       "#c4a7e7"
       ],
