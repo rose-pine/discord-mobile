@@ -15,15 +15,15 @@
 
 1. Copy the theme link
 
-Rose Pine
+Rosé Pine
 ```
 https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepine.json
 ```
-Rose Pine Moon
+Rosé Pine Moon
 ```
 https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepinemoon.json
 ```
-Rose Pine dawn
+Rosé Pine dawn
 ```
 https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepinedawn.json
 ```
@@ -68,17 +68,17 @@ https://discord.com/channels/950850315601711176/1019645460589318165/121147340915
 ## Gallery
 
 <details>
-<summary>Rose Pine</summary>
+<summary>Rosé Pine</summary>
 <img src="https://github.com/Quinxxxx/vendetta/assets/88912716/8a6e1277-997e-4ad8-af4c-9a345b24169a" width="500">
 </details>
 
 <details>
-<summary>Rose Pine Moon</summary>
+<summary>Rosé Pine Moon</summary>
 <img src="https://github.com/Quinxxxx/vendetta/assets/88912716/99179641-7a77-4aef-9266-b3f19c063850" width="500">
 </details>
 
 <details>
-<summary>Rose Pine Dawn</summary>
+<summary>Rosé Pine Dawn</summary>
 <img src="https://github.com/Quinxxxx/vendetta/assets/88912716/06eac0a8-a64f-443c-b9d9-0c9363c45716" width="500">
 </details>
 
