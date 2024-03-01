@@ -17,24 +17,28 @@
 
 Rose Pine
 ```
-https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepine.json
+https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepine.json
 ```
 Rose Pine Moon
 ```
-https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinemoon.json
+https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepinemoon.json
 ```
 Rose Pine dawn
 ```
-https://raw.githubusercontent.com/Quinxxxx/vendetta/main/rosepinedawn.json
+https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepinedawn.json
 ```
-2. Open vendetta
+2. Open discord
 3. Go to settings
 4. Go to themes
 5. Click the `+` icon
 6. Paste in theme link
 7. Restart discord
 
-Note: This theme has custom icon colours and can be used with iconpacks by following this guide.
+> [!IMPORTANT]
+> These steps will work foe Vendetta (and forks) and Enmity
+
+> [!NOTE]
+> This theme has custom icon colours and can be used with iconpacks by following this guide.
 
 ## Installing themes+, custom icon colours and icon packs
 
@@ -42,7 +46,7 @@ Note: This theme has custom icon colours and can be used with iconpacks by follo
 ```
 https://vendetta.nexpid.xyz/themes-plus/
 ```
-2. Open Vendetta
+2. Open 
 3. Go to settings
 4. Go to plugins
 5. Click the `+` icon
@@ -56,6 +60,11 @@ https://vendetta.nexpid.xyz/themes-plus/
 12. Click reload
 
 Custom icon colours are automatically applied when themes+ loads.
+
+> [!IMPORTANT]
+> If you are using Enmity, please install VendettaCommpat plugin first by visiting this link
+https://discord.com/channels/950850315601711176/1019645460589318165/1211473409154744350
+
 ## Gallery
 
 <details>
