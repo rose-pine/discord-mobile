@@ -17,15 +17,15 @@
 
 Rosé Pine
 ```
-https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepine.json
+https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepine.json
 ```
 Rosé Pine Moon
 ```
-https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepinemoon.json
+https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepinemoon.json
 ```
 Rosé Pine dawn
 ```
-https://raw.githubusercontent.com/Quinxxxx/discord-mobile/main/rosepinedawn.json
+https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepinedawn.json
 ```
 2. Open discord
 3. Go to settings
