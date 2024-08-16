@@ -35,16 +35,16 @@ https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepinedawn.jso
 7. Restart discord
 
 > [!IMPORTANT]
-> These steps will work foe Vendetta (and forks) and Enmity
+> These steps will work for [Bunny](https://github.com/pyoncord/Bunny) and [Enmity](https://github.com/enmity-mod)
 
 > [!NOTE]
 > This theme has custom icon colours and can be used with iconpacks by following this guide.
 
-## Installing themes+, custom icon colours and icon packs
-
+## Iconpacks
+> Custom icon colours are applied when themes+ is installed
 1. Copy plugin link
 ```
-https://vendetta.nexpid.xyz/themes-plus/
+https://bunny.nexpid.xyz/themes-plus/
 ```
 2. Open 
 3. Go to settings
@@ -55,9 +55,8 @@ https://vendetta.nexpid.xyz/themes-plus/
 7. Go to plugins
 8. Find themes+
 9. Click theme+ settings
-10. Double tap "themes+ is active" text
-11. Select icon pack from list
-12. Click reload
+10. Click config
+11. Set mode to automatic (if you wamt to use a different iconpack, set the mode to manual and choose an iconpack from the list, then hit reload)
 
 Custom icon colours are automatically applied when themes+ loads.
 
@@ -84,4 +83,4 @@ https://discord.com/channels/950850315601711176/1019645460589318165/121147340915
 
 ## Thanks to
 
-- [Quinx](https://github.com/Quinxxxx)
+- [Moodzz](https://github.com/Moodzz1)
