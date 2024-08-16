@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for Discord mobile</h2>
+    <h2 align="center">Rosé Pine for <a href="https://github.com/pyoncord/Bunny">Bunny</a> & <a href="https://github.com/enmity-mod">Enmity</a></h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -33,9 +33,6 @@ https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepinedawn.jso
 5. Click the `+` icon
 6. Paste in theme link
 7. Restart discord
-
-> [!IMPORTANT]
-> These steps will work for [Bunny](https://github.com/pyoncord/Bunny) and [Enmity](https://github.com/enmity-mod)
 
 > [!NOTE]
 > This theme has custom icon colours and can be used with iconpacks by following this guide.
