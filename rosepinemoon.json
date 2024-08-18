@@ -78,8 +78,8 @@
         "PLUM_3": "#e0def4",
         "PLUM_4": "#3e8fb050",
         "PLUM_6": "#c4a7e7",
-        "BRAND_260": "#3e8fb0",
-        "BRAND_360": "#eb6f92",
+        "BRAND_260": "#9ccfd8",
+        "BRAND_360": "#3e8fb0",
         "BRAND_500": "#3e8fb0",
         "BRAND_560": "#44415a",
         "BLUE_345": "#9ccfd8",
@@ -172,7 +172,7 @@
          "StatusMobileOnline": "#3e8fb0",
          "StatusIdle": "#f6c177",
          "StatusDND": "#eb6f92",
-         "StatusOffline": "#908caa",
+         "StatusOffline": "#6e6a86",
          "StatusOnline": "#9ccfd8",
          "StatusStreaming": "#c4a7e7"
                  }
