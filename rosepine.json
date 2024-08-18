@@ -164,7 +164,6 @@
         "customOverlays": true,
         "mentionLineColor": "#f6c177",
         "icons":{
-         "close": [ "#e0def4" ],     
          "ic_radio_circle_checked": "#31748f",
          "ic_radio_circle_checked__overlay": "#e0def4",
          "ic_radio_square_24px": "#31748f",
