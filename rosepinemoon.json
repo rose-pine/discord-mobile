@@ -49,6 +49,7 @@
       "CHANNEL_ICON": [ "#6e6a86" ],  
       "TEXT_PRIMARY": [ "#e0def4" ],  
       "TEXT_LINK": [ "#9ccfd8" ],
+      "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [ "#44415a" ],
       "THREAD_CHANNEL_SPINE": [ "#908caa" ]
     },
     "rawColors": {
@@ -78,10 +79,10 @@
         "PLUM_3": "#e0def4",
         "PLUM_4": "#3e8fb050",
         "PLUM_6": "#c4a7e7",
-        "BRAND_260": "#9ccfd8",
-        "BRAND_360": "#3e8fb0",
+        "BRAND_260": "#3e8fb0",
+        "BRAND_360": "#e0def4",
         "BRAND_500": "#3e8fb0",
-        "BRAND_560": "#44415a",
+        "BRAND_560": "#e0def4",
         "BLUE_345": "#9ccfd8",
         "GREEN_100": "#9ccfd8",
         "GREEN_130": "#9ccfd8",
