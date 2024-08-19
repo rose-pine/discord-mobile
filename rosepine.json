@@ -159,6 +159,10 @@
         "WHITE_500": "#e0def4",
         "WHITE_630": "#908caa"
     },
+        "background": {
+        "alpha": 5,
+        "url": "https://raw.githubusercontent.com/Cirkutry/discord-mobile/main/Assets/V06yN.png"
+    },
     "plus":{
         "version":"0",
         "customOverlays": true,
@@ -180,4 +184,3 @@
                  }
            }
     }
-    
