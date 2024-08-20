@@ -31,35 +31,26 @@ https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepinedawn.jso
 3. Go to settings
 4. Go to themes
 5. Click the `+` icon
-6. Paste in theme link
-7. Restart discord
+6. Paste in theme link and install (if you're using enmity you may need to restart, bunny users can skip this)
 
+## Themes+
 > [!NOTE]
-> This theme has custom icon colours and can be used with iconpacks by following this guide.
-
-## Iconpacks
-> Custom icon colours are applied when themes+ is installed
+> Themes+ is required for custom icon colours and overlays and iconpacks
+>
+> Custom icon colours are applied when themes+ is loaded
 1. Copy plugin link
 ```
 https://bunny.nexpid.xyz/themes-plus/
 ```
-2. Open 
-3. Go to settings
-4. Go to plugins
-5. Click the `+` icon
-6. Paste plugin link
-###
-7. Go to plugins
-8. Find themes+
-9. Click theme+ settings
-10. Click config
-11. Set mode to automatic (if you wamt to use a different iconpack, set the mode to manual and choose an iconpack from the list, then hit reload)
-
-Custom icon colours are automatically applied when themes+ loads.
+2. Go to settings
+3. Go to plugins
+4. Click the `+` icon
+5. Paste plugin link & install
+6. Go into themes+ settings and click config
+7. Set mode to automatic
 
 > [!IMPORTANT]
-> If you are using Enmity, please install VendettaCommpat plugin first by visiting this link
-https://discord.com/channels/950850315601711176/1019645460589318165/1211473409154744350
+> If you are using Enmity, please install VendettaCommpat plugin first by visiting this [link](https://discord.com/channels/950850315601711176/1019645460589318165/1211473409154744350). After doing so, follow this [guide](https://discord.com/channels/950850315601711176/1239393517151846412) as it loads Vendetta by default which is broken past Discord version 223
 
 ## Gallery
 
