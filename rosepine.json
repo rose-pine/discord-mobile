@@ -175,11 +175,11 @@
          "ic_radio_square_checked_24px__overlay": "#e0def4",
          "ic_selection_checked_24px": "#31748f",
          "ic_selection_checked_24px__overlay": "#e0def4",
-         "StatusMobileOnline": "#9ccfd8",
+         "StatusMobileOnline": "#95b1ac",
          "StatusIdle": "#f6c177",
          "StatusDND": "#eb6f92",
          "StatusOffline": "#6e6a86",
-         "StatusOnline": "#9ccfd8",
+         "StatusOnline": "#95b1ac",
          "StatusStreaming": "#c4a7e7"
                  }
            }
