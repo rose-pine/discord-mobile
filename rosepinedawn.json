@@ -58,7 +58,7 @@
     "BLUE_345": "#56949f",
     "PRIMARY_100": "#FFFAF3",
     "PRIMARY_130": "#faf4ed",
-    "PRIMARY_160": "#f2e9e1",        
+    "PRIMARY_160": "#f2e9e1",
     "PRIMARY_300": "#fff",
     "PRIMARY_360": "#000",
     "PRIMARY_400": "#908caa",
@@ -104,7 +104,7 @@
     "GREEN_830": "#56949f",
     "GREEN_860": "#56949f",
     "GREEN_900": "#56949f",
-        "GUILD_BOOSTING_PINK": "#b4637a",   
+        "GUILD_BOOSTING_PINK": "#b4637a",
         "GUILD_BOOSTING_PURPLE": "#907aa9",
         "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#907aa9",
         "RED_260": "#b4637a",
@@ -170,5 +170,6 @@
       "StatusOnline": "#6d8f89",
       "StatusStreaming": "#907aa9"
     }
-  }
+  },
+  "spec": 2
 }
